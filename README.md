@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Aydin hamedi🙂</h1>
 
+<a href="#">
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5f59d4&height=180&section=header"/>
+</a>
+
 [![Github Badge](https://img.shields.io/badge/-Github-232323?style=flat-square&logo=Github&logoColor=white&link=https://space.bilibili.com/7708412)](https://github.com/Aydinhamedi/Aydinhamedi)
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Aydinhamedi)
 
