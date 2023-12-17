@@ -10,3 +10,6 @@
 ![Aydin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aydinhamedi\&rank_icon=percentile&theme=tokyonight&include_all_commits=false)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aydinhamedi&layout=donut&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+<a href="#">
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5f59d4&height=180&section=footer"/>
+</a>
