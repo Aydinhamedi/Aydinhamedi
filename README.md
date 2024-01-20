@@ -30,4 +30,11 @@
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aydinhamedi&theme=tokyo-night" alt=""/>
 
+## My main repositories:
+
+[![Pneumonia-Detection-Ai](https://github-readme-stats.vercel.app/api/pin/?username=Aydinhamedi&repo=Pneumonia-Detection-Ai&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Ai-MNIST-Advanced-model](https://github-readme-stats.vercel.app/api/pin/?username=Aydinhamedi&repo=Ai-MNIST-Advanced-model&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Python-CLI-toolkit](https://github-readme-stats.vercel.app/api/pin/?username=Aydinhamedi&repo=Python-CLI-toolkit&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
 <a href="#"><img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5f59d4&height=180&section=footer"/></a>
