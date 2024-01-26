@@ -5,7 +5,7 @@
 [![Github Badge](https://img.shields.io/badge/-Github-232323?style=flat-square&logo=Github&logoColor=white&link=https://space.bilibili.com/7708412)](https://github.com/Aydinhamedi/Aydinhamedi)
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Aydinhamedi)
 
-[![My Skills](https://skillicons.dev/icons?i=github,git,c,cpp,cs,python,javascript,html,css,flask,tensorflow,anaconda,arduino,bash,idea,vscode,visualstudio,linux,regex,unity&theme=dark&perline=12)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=github,git,c,cpp,cs,python,javascript,html,css,flask,tensorflow,anaconda,arduino,bash,powershell,idea,vscode,visualstudio,linux,regex,unity&theme=dark&perline=12)](https://skillicons.dev)
 
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
