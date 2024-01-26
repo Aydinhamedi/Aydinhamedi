@@ -16,7 +16,7 @@
 ![adafruit](https://img.shields.io/badge/adafruit-000000?style=for-the-badge&logo=adafruit&logoColor=white)
 
 <details>
-  <summary>Github Stats ⚡</summary>
+  <summary><h2>Github Stats ⚡</h2></summary>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aydinhamedi&theme=tokyonight" alt="⚠️Currently the strake card is down"/>
   
   ![Aydin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aydinhamedi\&theme=tokyonight&include_all_commits=false)
