@@ -11,7 +11,7 @@
 ![espressif](https://img.shields.io/badge/espressif-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
 ![adafruit](https://img.shields.io/badge/adafruit-000000?style=for-the-badge&logo=adafruit&logoColor=white)
 
-<h3><details>
+<h2><details>
   <summary>Github Stats ⚡</summary>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aydinhamedi&theme=tokyonight" alt="⚠️Currently the strake card is down"/>
   
@@ -23,7 +23,7 @@
   
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aydinhamedi&theme=tokyo-night" alt=""/>
   
-  ## My main repositories:
+  #### My main repositories:
   
   [![Pneumonia-Detection-Ai](https://github-readme-stats.vercel.app/api/pin/?username=Aydinhamedi&repo=Pneumonia-Detection-Ai&theme=tokyonight)](https://github.com/Aydinhamedi/Pneumonia-Detection-Ai)
   [![Ai-MNIST-Advanced-model](https://github-readme-stats.vercel.app/api/pin/?username=Aydinhamedi&repo=Ai-MNIST-Advanced-model&theme=tokyonight)](https://github.com/Aydinhamedi/Ai-MNIST-Advanced-model)
@@ -32,4 +32,4 @@
   
   <a href="#"><img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5f59d4&height=180&section=footer"/></a>
   
-</details></h3>
+</details></h2>
