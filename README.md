@@ -5,18 +5,14 @@
 [![Github Badge](https://img.shields.io/badge/-Github-232323?style=flat-square&logo=Github&logoColor=white&link=https://space.bilibili.com/7708412)](https://github.com/Aydinhamedi/Aydinhamedi)
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Aydinhamedi)
 
-[![My Skills](https://skillicons.dev/icons?i=github,git,c,cpp,cs,python,javascript,html,css,flask,tensorflow,anaconda,arduino,bash,powershell,idea,vscode,visualstudio,linux,regex,unity&theme=dark&perline=12)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=github,git,c,cpp,cs,python,javascript,html,css,md,flask,tensorflow,anaconda,opencv,arduino,raspberrypi,bash,powershell,idea,pycharm,clion,vscode,visualstudio,linux,windows,ubuntu,debian,regex,unity&theme=dark&perline=12)](https://skillicons.dev)
 
-![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 ![espressif](https://img.shields.io/badge/espressif-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
-
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white)
 ![adafruit](https://img.shields.io/badge/adafruit-000000?style=for-the-badge&logo=adafruit&logoColor=white)
 
-<details>
-  <summary><h2>Github Stats ⚡</h2></summary>
+<h3><details>
+  <summary>Github Stats ⚡</summary>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aydinhamedi&theme=tokyonight" alt="⚠️Currently the strake card is down"/>
   
   ![Aydin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aydinhamedi\&theme=tokyonight&include_all_commits=false)
@@ -36,4 +32,4 @@
   
   <a href="#"><img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5f59d4&height=180&section=footer"/></a>
   
-</details>
+</details></h3>
