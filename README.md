@@ -7,10 +7,6 @@
 
 [![My Skills](https://skillicons.dev/icons?i=github,git,c,cpp,cs,python,javascript,html,css,md,flask,tensorflow,pytorch,anaconda,opencv,arduino,raspberrypi,bash,powershell,idea,pycharm,clion,vscode,visualstudio,linux,windows,ubuntu,debian,regex,unity&theme=dark&perline=12)](https://skillicons.dev)
 
-![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
-![espressif](https://img.shields.io/badge/espressif-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
-![adafruit](https://img.shields.io/badge/adafruit-000000?style=for-the-badge&logo=adafruit&logoColor=white)
-
 <h2><details>
   <summary>Github Stats ⚡</summary>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aydinhamedi&theme=tokyonight" alt="⚠️Currently the strake card is down"/>
