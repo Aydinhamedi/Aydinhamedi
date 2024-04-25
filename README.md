@@ -24,7 +24,7 @@
   [![Pneumonia-Detection-Ai](https://github-readme-stats.vercel.app/api/pin/?username=Aydinhamedi&repo=Pneumonia-Detection-Ai&theme=tokyonight)](https://github.com/Aydinhamedi/Pneumonia-Detection-Ai)
   [![Ai-MNIST-Advanced-model](https://github-readme-stats.vercel.app/api/pin/?username=Aydinhamedi&repo=Ai-MNIST-Advanced-model&theme=tokyonight)](https://github.com/Aydinhamedi/Ai-MNIST-Advanced-model)
 
-  [![Python-CLI-toolkit](https://github-readme-stats.vercel.app/api/pin/?username=Aydinhamedi&repo=Python-CLI-toolkit&theme=tokyonight)](https://github.com/Aydinhamedi/Python-CLI-toolkit)
+  [![PyTorch-Project-Template](https://github-readme-stats.vercel.app/api/pin/?username=Aydinhamedi&repo=PyTorch-Project-Template&theme=tokyonight)](https://github.com/Aydinhamedi/PyTorch-Project-Template)
   [![Pytorch-Garbage-Classification](https://github-readme-stats.vercel.app/api/pin/?username=Aydinhamedi&repo=Pytorch-Garbage-Classification&theme=tokyonight)](https://github.com/Aydinhamedi/Pytorch-Garbage-Classification)
   
   <a href="#"><img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5f59d4&height=180&section=footer"/></a>
