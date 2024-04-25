@@ -2,6 +2,7 @@
 
 **I’m Aydin**, backend developer interested in developing deep learning models.
 
+![](https://hit.yhype.me/github/profile?user_id=108932477)
 [![Github Badge](https://img.shields.io/badge/-Github-232323?style=flat-square&logo=Github&logoColor=white&link=https://space.bilibili.com/7708412)](https://github.com/Aydinhamedi/Aydinhamedi)
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Aydinhamedi)
 
