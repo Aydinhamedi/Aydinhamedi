@@ -6,7 +6,7 @@
 [![Github Badge](https://img.shields.io/badge/-Github-232323?style=flat-square&logo=Github&logoColor=white&link=https://space.bilibili.com/7708412)](https://github.com/Aydinhamedi/Aydinhamedi)
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Aydinhamedi)
 
-[![My Skills](https://skillicons.dev/icons?i=github,githubactions,git,c,cpp,cs,python,javascript,html,css,md,flask,tensorflow,pytorch,anaconda,opencv,arduino,raspberrypi,bash,powershell,idea,pycharm,clion,vscode,visualstudio,linux,windows,ubuntu,debian,regex,unity&theme=dark&perline=12)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=github,githubactions,git,c,cpp,cs,rust,python,javascript,html,css,md,flask,tensorflow,pytorch,anaconda,opencv,arduino,raspberrypi,bash,powershell,idea,pycharm,clion,vscode,visualstudio,linux,windows,ubuntu,debian,regex,unity&theme=dark&perline=12)](https://skillicons.dev)
 
 <h2><details>
   <summary>Github Stats ⚡</summary>
