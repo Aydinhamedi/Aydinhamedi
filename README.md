@@ -14,7 +14,7 @@
   <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AidinHamedi&theme=tokyonight" alt="⚠️Currently the strake card is down"/>
   
-  ![Aydin's GitHub stats](https://github-readme-stats.vercel.app/api?username=AidinHamedi\&theme=tokyonight&include_all_commits=false)
+  ![Aidin's GitHub stats](https://github-readme-stats.vercel.app/api?username=AidinHamedi\&theme=tokyonight&include_all_commits=false)
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AidinHamedi&layout=donut&hide=Jupyter%20Notebook&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
   
