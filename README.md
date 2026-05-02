@@ -8,7 +8,7 @@
 
 [![My Skills](https://go-skill-icons.vercel.app/api/icons?i=rust,python,tensorflow,pytorch,opencv,zed,linux,arch,hyprland,arduino,raspberrypi&theme=dark&perline=12)](https://skillicons.dev)
 
-
+<!---
 <h2><details>
   <summary>Github Stats ⚡</summary> 
   <br>
@@ -20,3 +20,4 @@
   
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AidinHamedi&theme=tokyonight" alt=""/>
 </details></h2>
+-->
