@@ -1,7 +1,7 @@
 <h1 align="left">Hey There! 👋</h1> 
 
 > [!IMPORTANT]
-> This account is no longer active and has been archived.
+> This account is no longer active and won't be used moving forward (keeping it for historical purposes)
 
 
 **I’m Aidin**, a socially awkward programmer dabbling in everything but web and game dev — just chasing what clicks.
