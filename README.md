@@ -1,4 +1,8 @@
-<h1 align="left">Hey There! 👋</h1>
+<h1 align="left">Hey There! 👋</h1> 
+
+> [!IMPORTANT]
+> This account is no longer active and has been archived.
+
 
 **I’m Aidin**, a socially awkward programmer dabbling in everything but web and game dev — just chasing what clicks.
 
